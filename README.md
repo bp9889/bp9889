@@ -2,7 +2,7 @@
 
 <p align="center">
   CSE student at BRAC University, Dhaka.<br/>
-  I work with data: SQL, Python, and small web tools that answer one question well.
+  I turn messy data into clear answers (on a good day) | SQL, Python, Power BI | Built Ashol Daam because “70% off” on Daraz kept lying to me.
 </p>
 
 <p align="center">
