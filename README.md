@@ -38,17 +38,17 @@ Daraz shows "40% off" on almost everything. Paste a product link and this tells 
 </td>
 <td width="50%" valign="top">
 
-### [Bangladesh MFI Loan Analysis](https://github.com/bp9889/Bangladesh-MFI-Loan-Analysis)
-<sub>Solo project &nbsp;|&nbsp; SQL case study</sub>
+### [Shutterdex](https://github.com/bp9889/shutterdex)
+<sub>Solo project &nbsp;|&nbsp; live at <a href="https://shutterdex.vercel.app">shutterdex.vercel.app</a></sub>
 
-Microfinance lenders in Bangladesh report about 98% recovery. I wanted to see what that number hides.
+Digicams are back in Bangladesh, but beginners have no idea which old model is worth buying. This is an animated guide that answers that.
 
-- Real data: 695 records for 86 MFIs (MIX Market). In 2017 the top 3 lenders held 77.4% of borrowers
-- Synthetic loan book: 10,000 borrowers, 521k weekly installments, to test where defaults start rising
-- Loan stacking: an overlap-in-time check beat simple lender counting, which had 38.5% precision
-- The README says plainly which results come from structure I built into the synthetic data
+- 1,152 digicams from Sony, Canon, Nikon, Fujifilm and Panasonic, 1996 to today, searchable and filterable
+- An advisor that asks how you'll shoot and picks three cameras with reasons
+- Shows which BD shops and Facebook groups have sold a model before, and says "check stock", never "available"
+- No product photos: each camera is drawn in code, plus a 3D model in three.js
 
-<sub>PostgreSQL &middot; window functions &middot; CTEs &middot; Python &middot; Power BI</sub>
+<sub>React &middot; TypeScript &middot; Vite &middot; GSAP &middot; three.js &middot; Vercel</sub>
 
 </td>
 </tr>
@@ -64,7 +64,7 @@ Microfinance lenders in Bangladesh report about 98% recovery. I wanted to see wh
 
 ## How I work
 
-I use AI coding tools a lot, and I'd rather say so up front. What I bring is the part they don't do on their own: picking a problem worth solving, checking whether the output is actually right, and being honest about what a result does and doesn't show. Both solo projects above have a "limitations" or "good to know" section for that reason.
+I use AI coding tools a lot, and I'd rather say so up front. What I bring is the part they don't do on their own: picking a problem worth solving, checking whether the output is actually right, and being honest about what a result does and doesn't show. That's also why Shutterdex says "check stock" and never "available".
 
 ## Tools
 
@@ -86,6 +86,9 @@ I use AI coding tools a lot, and I'd rather say so up front. What I bring is the
 <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/GSAP-161b22?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
+<img src="https://img.shields.io/badge/three.js-161b22?style=flat-square&logo=threedotjs&logoColor=white" alt="three.js" />
 <img src="https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/Playwright-161b22?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
 </td>
