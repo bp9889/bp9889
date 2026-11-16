@@ -22,7 +22,7 @@
 <td width="50%" valign="top">
 
 ### [Ashol Daam](https://github.com/bp9889/Ashol-Daam)
-<sub>Solo project &nbsp;|&nbsp; live at <a href="https://ashol-daam.vercel.app">ashol-daam.vercel.app</a></sub>
+<sub>Solo project &nbsp;|&nbsp; 
 
 Daraz shows "40% off" on almost everything. Paste a product link and this tells you if the discount is real, fair, or made up.
 
