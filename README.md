@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Dhaka,_Bangladesh-161b22?style=flat-square" alt="Dhaka, Bangladesh" />
   <img src="https://img.shields.io/badge/Looking_for-Data_and_Web_Developer_roles-161b22?style=flat-square" alt="Looking for data and web developer roles" />
-  <a href="https://ashol-daam.vercel.app"><img src="https://img.shields.io/badge/Live_project-ashol--daam.vercel.app-0a7c55?style=flat-square" alt="Live project" /></a>
 </p>
 
 <p align="center"><a href="https://www.linkedin.com/in/bishanpaul/">LinkedIn</a></p>
@@ -22,7 +21,7 @@
 <td width="50%" valign="top">
 
 ### [Ashol Daam](https://github.com/bp9889/Ashol-Daam)
-<sub>Solo project &nbsp;|&nbsp; 
+<sub>Solo project &nbsp;|&nbsp; live at <a href="https://ashol-daam.vercel.app">ashol-daam.vercel.app</a></sub>
 
 Daraz shows "40% off" on almost everything. Paste a product link and this tells you if the discount is real, fair, or made up.
 
