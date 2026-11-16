@@ -2,18 +2,16 @@
 
 <p align="center">
   CSE student at BRAC University, Dhaka.<br/>
-  I turn messy data into clear answers (on a good day) | SQL, Python, Power BI | Built Ashol Daam because “70% off” on Daraz kept lying to me.
+  I turn messy data into clear answers (on a good day) and build websites people enjoy using | SQL, Python, React, TypeScript | Built Ashol Daam because “70% off” on Daraz kept lying to me.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dhaka,_Bangladesh-161b22?style=flat-square" alt="Dhaka, Bangladesh" />
-  <img src="https://img.shields.io/badge/Looking_for-Data_Analyst_roles-161b22?style=flat-square" alt="Looking for data analyst roles" />
+  <img src="https://img.shields.io/badge/Looking_for-Data_and_Web_Developer_roles-161b22?style=flat-square" alt="Looking for data and web developer roles" />
   <a href="https://ashol-daam.vercel.app"><img src="https://img.shields.io/badge/Live_project-ashol--daam.vercel.app-0a7c55?style=flat-square" alt="Live project" /></a>
 </p>
 
-<!-- Add your LinkedIn here when ready:
-<p align="center"><a href="https://www.linkedin.com/in/YOUR-HANDLE">LinkedIn</a></p>
--->
+<p align="center"><a href="https://www.linkedin.com/in/bishanpaul/">LinkedIn</a></p>
 
 <br/>
 
@@ -52,6 +50,24 @@ Digicams are back in Bangladesh, but beginners have no idea which old model is w
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [AJKER খবর KI?](https://github.com/bp9889/ajker-khobor-ki)
+<sub>Solo project &nbsp;|&nbsp; live at <a href="https://ajker-khobor-ki.vercel.app">ajker-khobor-ki.vercel.app</a></sub>
+
+News for young people who don't enjoy traditional news sites. Every story from Bangladesh and the world gets a short overview of what is happening, with a link to the original publisher for the details.
+
+- Reads live headlines from news feeds, merges repeats of the same event, and builds "Today's five" from a fixed recipe, not by hand
+- A rickshaw game unlocks the five stories one passenger at a time, or you can skip it
+- Overviews are written by an AI model in its own words from each article, and the page says when it could only use the headline
+- A daily "Did you know?" page with hand written facts, a money converter, Dhaka weather and air quality
+- Dark mode, a reading progress cha cup, works on a 360px phone, installs as a web app and as an Android app
+
+<sub>Next.js &middot; React &middot; Gemini API &middot; RSS &middot; Vercel</sub>
+
+</td>
+</tr>
 </table>
 
 ## Team projects
@@ -85,6 +101,7 @@ I use AI coding tools a lot, and I'd rather say so up front. What I bring is the
 <td>
 <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=white" alt="React" />
 <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/GSAP-161b22?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
@@ -108,7 +125,7 @@ I use AI coding tools a lot, and I'd rather say so up front. What I bring is the
 
 ## Right now
 
-- Adding more stores to Ashol Daam after Daraz
+- Growing AJKER খবর KI? and adding more stores to Ashol Daam after Daraz
 - Getting better at SQL and analytics for data analyst work
 - Coursework on ML with satellite data: urban heat and flood prediction
 
