@@ -27,13 +27,31 @@
 Daraz shows "40% off" on almost everything. Paste a product link and this tells you if the discount is real, fair, or made up.
 
 - Finds the same item from other sellers and ranks them by price plus delivery fee
-- Re-checks every tracked product twice a day through GitHub Actions
+- Rechecks every tracked product twice a day through GitHub Actions
 - Flags prices that were raised right before a sale
 - Leaves a listing out when it isn't sure it's the same product
 
 <sub>FastAPI &middot; PostgreSQL (Neon) &middot; Playwright &middot; GitHub Actions &middot; Vercel &middot; 121 tests</sub>
 
 </td>
+<td width="50%" valign="top">
+
+### [AJKER খবর KI?](https://github.com/bp9889/ajker-khobor-ki)
+<sub>Solo project &nbsp;|&nbsp; live at <a href="https://ajker-khobor-ki.vercel.app">ajker-khobor-ki.vercel.app</a></sub>
+
+News for young people who don't enjoy traditional news sites. Every story from Bangladesh and the world gets a short overview of what is happening, with a link to the original publisher for the details.
+
+- Reads live headlines from news feeds, merges repeats of the same event, and builds "Today's five" from a fixed recipe, not by hand
+- A rickshaw game unlocks the five stories one passenger at a time, or you can skip it
+- Overviews are written by an AI model in its own words from each article, and the page says when it could only use the headline
+- A daily "Did you know?" page with hand written facts, a money converter, Dhaka weather and air quality
+- Dark mode, a reading progress cha cup, works on a 360px phone, installs as a web app and as an Android app
+
+<sub>Next.js &middot; React &middot; Gemini API &middot; RSS &middot; Vercel</sub>
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Shutterdex](https://github.com/bp9889/shutterdex)
@@ -49,22 +67,19 @@ Digicams are back in Bangladesh, but beginners have no idea which old model is w
 <sub>React &middot; TypeScript &middot; Vite &middot; GSAP &middot; three.js &middot; Vercel</sub>
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### [AJKER খবর KI?](https://github.com/bp9889/ajker-khobor-ki)
-<sub>Solo project &nbsp;|&nbsp; live at <a href="https://ajker-khobor-ki.vercel.app">ajker-khobor-ki.vercel.app</a></sub>
+### [Bangladesh MFI Loan Analysis](https://github.com/bp9889/Bangladesh-MFI-Loan-Analysis)
+<sub>Solo SQL case study</sub>
 
-News for young people who don't enjoy traditional news sites. Every story from Bangladesh and the world gets a short overview of what is happening, with a link to the original publisher for the details.
+Bangladeshi microfinance lenders report about 98% loan recovery. This asks what that number hides.
 
-- Reads live headlines from news feeds, merges repeats of the same event, and builds "Today's five" from a fixed recipe, not by hand
-- A rickshaw game unlocks the five stories one passenger at a time, or you can skip it
-- Overviews are written by an AI model in its own words from each article, and the page says when it could only use the headline
-- A daily "Did you know?" page with hand written facts, a money converter, Dhaka weather and air quality
-- Dark mode, a reading progress cha cup, works on a 360px phone, installs as a web app and as an Android app
+- Real data: 695 records for 86 lenders. The top 3 held 77.4% of active borrowers in 2017
+- A synthetic loan book of 10,000 borrowers shows where defaults start rising with debt to income
+- Compares two loan stacking checks: counting lenders (38.5% precision) and checking for overlapping dates
+- The README says plainly which results come from structure built into the synthetic data
 
-<sub>Next.js &middot; React &middot; Gemini API &middot; RSS &middot; Vercel</sub>
+<sub>PostgreSQL &middot; window functions &middot; CTEs &middot; Python &middot; Power BI</sub>
 
 </td>
 </tr>
